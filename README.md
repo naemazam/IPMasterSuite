@@ -3,7 +3,7 @@
 IP Master Suite is a comprehensive Python GUI application designed to simplify and master IP address and subnet calculations. Whether you're a network administrator, a student learning about networking, or anyone else dealing with IP addresses, this tool will help you effortlessly perform essential calculations.
 
 ![IP Master Suite Screenshot](screenshot.png)
-![IP Master Suite Screenshot](screenshot1.png)
+![IP Master Suite Screenshot](screenshot2.png)
 
 ## Features
 
@@ -43,7 +43,7 @@ IP Master Suite is a comprehensive Python GUI application designed to simplify a
 Here's a screenshot of the application in action:
 
 ![IP Master Suite Testing](screenshot.png)
-![IP Master Suite Screenshot](screenshot1.png)
+![IP Master Suite Screenshot](screenshot2.png)
 
 ## FAQ
 
